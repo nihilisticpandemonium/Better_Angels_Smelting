@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.17.2
+  Changes:
+    - Fixed this mod not loading when Extended Angels was present but MadClown's Processing was not.
+    - Phosphorus Processing 2 is no longer disabled when Extended Angels is present: rather, just some unlocks are removed.
